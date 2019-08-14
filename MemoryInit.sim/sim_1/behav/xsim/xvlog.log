@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Workspace/Vivado_17.4/2019_8_14_MemoryInit/Design/MemoryInit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MemoryInit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Workspace/Vivado_17.4/2019_8_14_MemoryInit/TestBench/tb_momoryinit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_momoryinit

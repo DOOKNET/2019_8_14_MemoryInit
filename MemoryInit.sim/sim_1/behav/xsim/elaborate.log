@@ -1,0 +1,14 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: E:/Softwares/Vivado_17.4/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto c8b395e0dbf744cd8480c06c40509b71 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_momoryinit_behav xil_defaultlib.tb_momoryinit xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/Workspace/Vivado_17.4/2019_8_14_MemoryInit/Design/MemoryInit.v" Line 1. Module MemoryInit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.MemoryInit
+Compiling module xil_defaultlib.tb_momoryinit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_momoryinit_behav
